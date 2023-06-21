@@ -1,3 +1,4 @@
+```javascript
 class SoftwareEngineer {
   constructor() {
     this.name = "Juan David Gallego";
@@ -29,4 +30,4 @@ class SoftwareEngineer {
 
 const me = new SoftwareEngineer();
 me.sayHi();
-
+```
